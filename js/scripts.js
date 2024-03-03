@@ -1,7 +1,7 @@
 /*!
-* Start Bootstrap - New Age v6.0.7 (https://startbootstrap.com/theme/new-age)
+* Start Bootstrap - KeepFocus v6.0.7 (https://startbootstrap.com/theme/new-age)
 * Copyright 2013-2024 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-new-age/blob/master/LICENSE)
+* Licensed under MIT (https://github.com/StartBootstrap/KeepFocus/blob/master/LICENSE)
 */
 //
 // Scripts
